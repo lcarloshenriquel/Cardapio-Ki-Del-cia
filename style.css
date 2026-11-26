@@ -22,6 +22,8 @@ nav{ text-align: center;
 nav a{ color: #ff6a1a;
     margin: 0 10px;
     text-decoration: none;
+    background-color: black;
+    border-radius: 2px;
 }
 
 main{ max-width: 700px;
