@@ -61,6 +61,8 @@ footer{ text-align: center;
 footer a { color: #ff6a1a;
     text-decoration: none;
     margin: 0 10px;
+    font-size: 22px;
+    margin-right: 6px;
 }
 
 html{
